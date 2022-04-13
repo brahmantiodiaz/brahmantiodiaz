@@ -11,7 +11,7 @@ I code mainly on JavaScript and have experienced on it. More information about m
 I'm always open for work/project oppurtinity, feel free to reach me out via :
 - Email : [auliabrahmantio@gmail.com](mailto:auliabrahmantio@gmail.com)
 - LinkedIn : [Aulia Brahmantio Diaz](https://www.linkedin.com/in/auliabrahmantiodiaz/)
-- HackerRank : [Brahmantio Diaz](https://www.hackerrank.com/brahmantiodiaz)
+- HackerRank : [Aulia Brahmantio Diaz](https://www.hackerrank.com/brahmantiodiaz)
 
 ## My top skills
 
