@@ -1,11 +1,7 @@
 # Hello!
 
 My name is Aulia Brahmantio Diaz. Learning a new thing is some kind of hobby to me.
-I code mainly on JavaScript and have experienced on it. More information about me please visit my [LinkedIn](https://www.linkedin.com/in/auliabrahmantiodiaz/) profile or my [personal site](https://brahmantiodiaz.xyz/).
-
-![brahmantiodiaz's GitHub stats](https://github-stats-six.vercel.app/api?username=brahmantiodiaz&count_private=true&show_icons=true&theme=vue&line_height=20)
-<span style="display:inline-block; width: 10px;"></span>
-![Top Langs](https://github-stats-six.vercel.app/api/top-langs/?username=brahmantiodiaz&show_icons=true&layout=compact&theme=vue&count_private=truecount_private=true)
+I code mainly on JavaScript and have experienced on it. More information about me please visit my [LinkedIn](https://www.linkedin.com/in/auliabrahmantiodiaz/) 
 
 ## Get in Touch
 I'm always open for work/project oppurtinity, feel free to reach me out via :
