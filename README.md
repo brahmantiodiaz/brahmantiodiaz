@@ -1,7 +1,6 @@
 # Hello!
 
-My name is Aulia Brahmantio Diaz. Learning a new thing is some kind of hobby to me.
-I code mainly on JavaScript and have experienced on it. More information about me please visit my [LinkedIn](https://www.linkedin.com/in/auliabrahmantiodiaz/) 
+My name is Aulia Brahmantio Diaz. Learning a new thing is some kind of hobby to me. More information about me please visit my [LinkedIn](https://www.linkedin.com/in/auliabrahmantiodiaz/) 
 
 ## Get in Touch
 I'm always open for work/project oppurtinity, feel free to reach me out via :
