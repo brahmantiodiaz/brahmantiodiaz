@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Aulia Brahmantio Diaz
 
 <h3>
-  Fullstack Developer • Frontend Enthusiast • Lifelong Learner
+  Fullstack Developer
 </h3>
 
 <p>
