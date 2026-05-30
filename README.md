@@ -177,7 +177,7 @@
 </td>
 <td width="50%">
 
-<h3>🗄️ Database & Cache</h3>
+<h3>🗄️ Database, Cache & Messaging</h3>
 
 <p>
   <a href="https://www.mysql.com/">
@@ -194,6 +194,10 @@
   &nbsp;
   <a href="https://redis.io/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="45" height="45"/>
+  </a>
+  &nbsp;
+  <a href="https://kafka.apache.org/">
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="apache kafka" width="45" height="45"/>
   </a>
 </p>
 
@@ -266,6 +270,7 @@
   <li>Database integration with MySQL, PostgreSQL, and MongoDB</li>
   <li>Server-side application logic</li>
   <li>Cache implementation with Redis</li>
+  <li>Message broker and event streaming with Kafka</li>
 </ul>
 
 </td>
@@ -307,54 +312,6 @@
 
 ---
 
-## 🧩 Skill Highlights
-
-<table>
-  <tr>
-    <td width="33%">
-
-<h3>Frontend</h3>
-
-<ul>
-  <li>React</li>
-  <li>Next.js</li>
-  <li>Redux</li>
-  <li>Tailwind CSS</li>
-  <li>Material UI</li>
-</ul>
-
-</td>
-<td width="33%">
-
-<h3>Backend</h3>
-
-<ul>
-  <li>Node.js</li>
-  <li>Express.js</li>
-  <li>C#</li>
-  <li>.NET</li>
-  <li>Laravel</li>
-</ul>
-
-</td>
-<td width="33%">
-
-<h3>Infrastructure</h3>
-
-<ul>
-  <li>Docker</li>
-  <li>AWS</li>
-  <li>Nginx Reverse Proxy</li>
-  <li>Redis</li>
-  <li>PostgreSQL</li>
-</ul>
-
-</td>
-  </tr>
-</table>
-
----
-
 ## 📌 Main Interests
 
 <p>
@@ -364,6 +321,7 @@
   <img src="https://img.shields.io/badge/API%20Development-20232A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/UI%20Implementation-20232A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kafka-20232A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Docker%20Deployment-20232A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Nginx%20Reverse%20Proxy-20232A?style=for-the-badge"/>
 </p>
