@@ -9,36 +9,36 @@
 </p>
 
 <p>
-  <a href="mailto:auliabrahmantio@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:auliabrahmantio@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" width="35" height="35"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/auliabrahmantiodiaz/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/auliabrahmantiodiaz/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="35" height="35"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/brahmantiodiaz" target="_blank" rel="noreferrer">
+  <a href="https://www.hackerrank.com/brahmantiodiaz">
     <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hackerrank" width="35" height="35"/>
   </a>
 </p>
 
 <p>
-  <a href="#-about-me">About Me</a>
+  <a href="#about-me">About Me</a>
   •
-  <a href="#-tech-stack">Tech Stack</a>
+  <a href="#tech-stack">Tech Stack</a>
   •
-  <a href="#-what-i-like-to-build">What I Build</a>
+  <a href="#what-i-like-to-build">What I Build</a>
   •
-  <a href="#-deployment--infrastructure">Deployment</a>
+  <a href="#deployment--infrastructure">Deployment</a>
   •
-  <a href="#-contact">Contact</a>
+  <a href="#contact">Contact</a>
 </p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+<h2 id="about-me">🚀 About Me</h2>
 
 <table>
   <tr>
@@ -83,151 +83,161 @@
 
 ---
 
-## 🛠️ Tech Stack
+<h2 id="tech-stack">🛠️ Tech Stack</h2>
 
-<details open>
-  <summary><b>🎨 Frontend</b></summary>
-  <br/>
+<table>
+  <tr>
+    <td width="50%">
 
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<h3>🎨 Frontend</h3>
+
+<p>
+  <a href="https://www.w3.org/html/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
   </a>
   &nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/css/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
   </a>
   &nbsp;
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <a href="https://getbootstrap.com">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="45" height="45"/>
   </a>
   &nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <a href="https://tailwindcss.com/">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="45" height="45"/>
   </a>
   &nbsp;
-  <a href="https://mui.com/" target="_blank" rel="noreferrer">
+  <a href="https://mui.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material ui" width="45" height="45"/>
   </a>
 </p>
 
-</details>
+</td>
+<td width="50%">
 
-<details open>
-  <summary><b>⚛️ JavaScript Ecosystem</b></summary>
-  <br/>
+<h3>⚛️ JavaScript Ecosystem</h3>
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
   </a>
   &nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.typescriptlang.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
   </a>
   &nbsp;
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+  <a href="https://react.dev/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
   </a>
   &nbsp;
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://nextjs.org/">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="45" height="45"/>
   </a>
   &nbsp;
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+  <a href="https://redux.js.org">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="45" height="45"/>
   </a>
 </p>
 
-</details>
+</td>
+  </tr>
 
-<details open>
-  <summary><b>⚙️ Backend</b></summary>
-  <br/>
+  <tr>
+    <td width="50%">
 
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+<h3>⚙️ Backend</h3>
+
+<p>
+  <a href="https://nodejs.org">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
   </a>
   &nbsp;
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+  <a href="https://expressjs.com">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="45" height="45"/>
   </a>
   &nbsp;
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
   </a>
   &nbsp;
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+  <a href="https://dotnet.microsoft.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="45" height="45"/>
   </a>
   &nbsp;
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+  <a href="https://www.php.net/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/>
   </a>
   &nbsp;
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+  <a href="https://laravel.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="45" height="45"/>
   </a>
 </p>
 
-</details>
+</td>
+<td width="50%">
 
-<details open>
-  <summary><b>🗄️ Database & Cache</b></summary>
-  <br/>
+<h3>🗄️ Database & Cache</h3>
 
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<p>
+  <a href="https://www.mysql.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
   </a>
   &nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.postgresql.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
+  </a>
+  &nbsp;
+  <a href="https://www.mongodb.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
   </a>
   &nbsp;
-  <a href="https://redis.io/" target="_blank" rel="noreferrer">
+  <a href="https://redis.io/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="45" height="45"/>
   </a>
 </p>
 
-</details>
+</td>
+  </tr>
 
-<details open>
-  <summary><b>🧪 Testing, Tools & Deployment</b></summary>
-  <br/>
+  <tr>
+    <td colspan="2">
 
-<p align="left">
-  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+<h3>🧪 Testing, Tools & Deployment</h3>
+
+<p>
+  <a href="https://jestjs.io/">
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="45" height="45"/>
   </a>
   &nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.docker.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
   </a>
   &nbsp;
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <a href="https://aws.amazon.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
   </a>
   &nbsp;
-  <a href="https://nginx.org/" target="_blank" rel="noreferrer">
+  <a href="https://nginx.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx reverse proxy" width="45" height="45"/>
   </a>
   &nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <a href="https://git-scm.com/">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
   </a>
   &nbsp;
-  <a href="https://postman.com/" target="_blank" rel="noreferrer">
+  <a href="https://postman.com/">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
   </a>
 </p>
 
-</details>
+</td>
+  </tr>
+</table>
 
 ---
 
-## 💼 What I Like to Build
+<h2 id="what-i-like-to-build">💼 What I Like to Build</h2>
 
 <table>
   <tr>
@@ -253,7 +263,7 @@
   <li>REST API services</li>
   <li>Authentication and authorization</li>
   <li>CRUD-based business features</li>
-  <li>Database integration</li>
+  <li>Database integration with MySQL, PostgreSQL, and MongoDB</li>
   <li>Server-side application logic</li>
   <li>Cache implementation with Redis</li>
 </ul>
@@ -264,7 +274,7 @@
 
 ---
 
-## 🚀 Deployment & Infrastructure
+<h2 id="deployment--infrastructure">🚀 Deployment & Infrastructure</h2>
 
 <table>
   <tr>
@@ -298,10 +308,6 @@
 ---
 
 ## 🧩 Skill Highlights
-
-<details>
-  <summary><b>Click to see my development focus</b></summary>
-  <br/>
 
 <table>
   <tr>
@@ -340,14 +346,12 @@
   <li>AWS</li>
   <li>Nginx Reverse Proxy</li>
   <li>Redis</li>
-  <li>Postman</li>
+  <li>PostgreSQL</li>
 </ul>
 
 </td>
   </tr>
 </table>
-
-</details>
 
 ---
 
@@ -359,18 +363,19 @@
   <img src="https://img.shields.io/badge/Backend%20Engineering-20232A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/API%20Development-20232A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/UI%20Implementation-20232A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Docker%20Deployment-20232A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Nginx%20Reverse%20Proxy-20232A?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📫 Contact
+<h2 id="contact">📫 Contact</h2>
 
 <table>
   <tr>
     <td width="80">
-      <a href="mailto:auliabrahmantio@gmail.com" target="_blank" rel="noreferrer">
+      <a href="mailto:auliabrahmantio@gmail.com">
         <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" width="30" height="30"/>
       </a>
     </td>
@@ -380,7 +385,7 @@
   </tr>
   <tr>
     <td width="80">
-      <a href="https://www.linkedin.com/in/auliabrahmantiodiaz/" target="_blank" rel="noreferrer">
+      <a href="https://www.linkedin.com/in/auliabrahmantiodiaz/">
         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="30" height="30"/>
       </a>
     </td>
@@ -390,7 +395,7 @@
   </tr>
   <tr>
     <td width="80">
-      <a href="https://www.hackerrank.com/brahmantiodiaz" target="_blank" rel="noreferrer">
+      <a href="https://www.hackerrank.com/brahmantiodiaz">
         <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hackerrank" width="30" height="30"/>
       </a>
     </td>
