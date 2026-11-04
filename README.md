@@ -1,364 +1,136 @@
-<div align="center">
-
-# 👋 Hi, I'm Aulia Brahmantio Diaz
-
-<h3>Fullstack Developer</h3>
-
-<p>
-  I enjoy learning new things, building web applications, and turning ideas into useful digital products.
-</p>
-
-<p>
-  <a href="mailto:auliabrahmantio@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" width="35" height="35"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/auliabrahmantiodiaz/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="35" height="35"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/brahmantiodiaz">
-    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hackerrank" width="35" height="35"/>
+<p align="center">
+  <a href="https://brahmantiodiaz.com">
+    <picture>
+      <source media="(max-width: 600px)" srcset="assets/header-mobile.png"/>
+      <img src="assets/header.png" alt="Hello, I'm Aulia Brahmantio Diaz. Full Stack Developer and Software Engineer. Chibi illustration of Aulia coding on a laptop." width="100%"/>
+    </picture>
   </a>
 </p>
 
-<p>
-  <a href="#about-me">About Me</a>
-  •
-  <a href="#tech-stack">Tech Stack</a>
-  •
-  <a href="#what-i-like-to-build">What I Build</a>
-  •
-  <a href="#deployment--infrastructure">Deployment</a>
-  •
+<p align="center">
+  Jakarta, Indonesia · <a href="https://brahmantiodiaz.com"><b>brahmantiodiaz.com</b></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=EA580C&center=true&vCenter=true&width=640&height=40&lines=I+build+web+apps+end+to+end;Backend+services+in+Go+and+Node.js;Frontends+in+React+and+Next.js;Learning+new+tools+is+a+habit" alt="I build web apps end to end. Backend services in Go and Node.js. Frontends in React and Next.js. Learning new tools is a habit."/>
+</p>
+
+<p align="center">
+  <a href="https://brahmantiodiaz.com"><img src="https://img.shields.io/badge/Portfolio-0B1320?style=flat-square&logo=googlechrome&logoColor=EA580C" height="28" alt="Portfolio website"/></a>
+  <a href="mailto:auliabrahmantio@gmail.com"><img src="https://img.shields.io/badge/Email-0B1320?style=flat-square&logo=gmail&logoColor=EA4335" height="28" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/auliabrahmantiodiaz/"><img src="https://img.shields.io/badge/LinkedIn-0B1320?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" height="28" alt="LinkedIn"/></a>
+  <a href="https://www.hackerrank.com/brahmantiodiaz"><img src="https://img.shields.io/badge/HackerRank-0B1320?style=flat-square&logo=hackerrank&logoColor=00EA64" height="28" alt="HackerRank"/></a>
+  <img src="https://komarev.com/ghpvc/?username=brahmantiodiaz&style=flat-square&color=0B1320&label=profile+views" height="28" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <a href="#about">About</a> ·
+  <a href="#stack">Stack</a> ·
+  <a href="#activity">Activity</a> ·
   <a href="#contact">Contact</a>
 </p>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EA580C00,50:EA580C,100:EA580C00&height=3" alt="" width="100%"/>
 
----
-
-<h2 id="about-me">🚀 About Me</h2>
+## About
 
 <table>
-  <tr>
-    <td width="60%">
+<tr>
+<td width="52%" valign="top">
 
-<p>
-  My name is <b>Aulia Brahmantio Diaz</b>. Learning new things is one of my favorite habits, especially in technology, programming, and software development.
-</p>
+I'm Diaz, a full stack developer and software engineer. I like building web apps from the database up to the screen, and turning ideas into products that people find useful.
 
-<p>
-  I am interested in building clean, responsive, and maintainable web applications. I enjoy working on both frontend and backend development, especially when creating features that solve real problems.
-</p>
+Right now that means Go on the backend, Next.js on the frontend, and Kubernetes for getting both into production.
 
-<ul>
-  <li>💻 Focused on web application development</li>
-  <li>🎨 Interested in clean and responsive user interfaces</li>
-  <li>⚙️ Comfortable working with frontend and backend technologies</li>
-  <li>🚀 Interested in deployment, server configuration, and reverse proxy setup</li>
-  <li>📚 Always open to learning new tools, frameworks, and best practices</li>
-  <li>🤝 Open for work, collaboration, and project opportunities</li>
-</ul>
+Learning new things is one of my favorite habits. Most of the stack on this page started as something I didn't know yet.
+
+I'm open to collaboration and project opportunities.
 
 </td>
-<td width="40%">
+<td width="48%" valign="top">
 
-<h3>🎯 Current Focus</h3>
+```go
+type Developer struct {
+	Name    string
+	Role    string
+	Stack   map[string][]string
+}
 
-<ul>
-  <li>Frontend Development</li>
-  <li>Backend Development</li>
-  <li>Fullstack Web Apps</li>
-  <li>REST API Integration</li>
-  <li>Clean UI Components</li>
-  <li>Database Integration</li>
-  <li>Dockerized Applications</li>
-  <li>Nginx Reverse Proxy</li>
-</ul>
+var aulia = Developer{
+	Name:    "Aulia Brahmantio Diaz",
+	Role:    "Fullstack Developer",
+	Stack: map[string][]string{
+		"backend":  {"Go", "Fiber", "Kafka", "PostgreSQL"},
+		"frontend": {"Next.js", "React", "TypeScript"},
+		"platform": {"Kubernetes", "Argo CD", "OpenTofu"},
+	},
+}
+```
 
 </td>
-  </tr>
+</tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EA580C00,50:EA580C,100:EA580C00&height=3" alt="" width="100%"/>
 
-<h2 id="tech-stack">🛠️ Tech Stack</h2>
+## Stack
+
+Everything I've worked with.
 
 <table>
-  <tr>
-    <td width="50%">
-
-<h3>🎨 Frontend</h3>
-
-<p>
-  <a href="https://www.w3.org/html/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://www.w3schools.com/css/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://getbootstrap.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://tailwindcss.com/">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://mui.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material ui" width="45" height="45"/>
-  </a>
-</p>
-
+<tr>
+<td width="50%" align="center">
+<b>Languages</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=go,ts,js,cs,php,html,css&theme=dark&perline=7" alt="Go, TypeScript, JavaScript, C#, PHP, HTML, CSS"/>
 </td>
-<td width="50%">
-
-<h3>⚛️ JavaScript Ecosystem</h3>
-
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://react.dev/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://nextjs.org/">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://redux.js.org">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="45" height="45"/>
-  </a>
-</p>
-
+<td width="50%" align="center">
+<b>Frontend</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,bootstrap&theme=dark&perline=7" alt="React, Next.js, Redux, Tailwind CSS, Material UI, Bootstrap"/>
 </td>
-  </tr>
-
-  <tr>
-    <td width="50%">
-
-<h3>⚙️ Backend</h3>
-
-<p>
-  <a href="https://nodejs.org">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://expressjs.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://dotnet.microsoft.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://www.php.net/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://laravel.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="45" height="45"/>
-  </a>
-</p>
-
+</tr>
+<tr>
+<td align="center">
+<b>Backend</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,laravel&theme=dark&perline=7" alt="Node.js, Express, .NET, Laravel"/>
 </td>
-<td width="50%">
-
-<h3>🗄️ Database, Cache & Messaging</h3>
-
-<p>
-  <a href="https://www.mysql.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://www.postgresql.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://www.mongodb.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://redis.io/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://kafka.apache.org/">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="apache kafka" width="45" height="45"/>
-  </a>
-</p>
-
+<td align="center">
+<b>Databases and messaging</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka&theme=dark&perline=7" alt="PostgreSQL, MySQL, MongoDB, Redis, Kafka"/>
 </td>
-  </tr>
-
-  <tr>
-    <td colspan="2">
-
-<h3>🧪 Testing, Tools & Deployment</h3>
-
-<p>
-  <a href="https://jestjs.io/">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://www.docker.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://aws.amazon.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://nginx.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx reverse proxy" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://git-scm.com/">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://postman.com/">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
-  </a>
-</p>
-
+</tr>
+<tr>
+<td align="center">
+<b>Cloud and DevOps</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws,githubactions,grafana,prometheus,linux&theme=dark&perline=8" alt="Docker, Kubernetes, Nginx, AWS, GitHub Actions, Grafana, Prometheus, Linux"/>
 </td>
-  </tr>
+<td align="center">
+<b>Tools and testing</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=git,postman,vscode,jest,vitest&theme=dark&perline=7" alt="Git, Postman, VS Code, Jest, Vitest"/>
+</td>
+</tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EA580C00,50:EA580C,100:EA580C00&height=3" alt="" width="100%"/>
 
-<h2 id="what-i-like-to-build">💼 What I Like to Build</h2>
+## Activity
 
-<table>
-  <tr>
-    <td width="50%">
-
-<h3>🎨 Frontend</h3>
-
-<ul>
-  <li>Responsive website interfaces</li>
-  <li>Dashboard and admin panel layouts</li>
-  <li>Reusable UI components</li>
-  <li>Form handling and validation</li>
-  <li>Clean and maintainable page structure</li>
-  <li>State management with Redux</li>
-</ul>
-
-</td>
-<td width="50%">
-
-<h3>⚙️ Backend</h3>
-
-<ul>
-  <li>REST API services</li>
-  <li>Authentication and authorization</li>
-  <li>CRUD-based business features</li>
-  <li>Database integration with MySQL, PostgreSQL, and MongoDB</li>
-  <li>Server-side application logic</li>
-  <li>Cache implementation with Redis</li>
-  <li>Message broker and event streaming with Kafka</li>
-</ul>
-
-</td>
-  </tr>
-</table>
-
----
-
-<h2 id="deployment--infrastructure">🚀 Deployment & Infrastructure</h2>
-
-<table>
-  <tr>
-    <td width="50%">
-
-<h3>🐳 Application Deployment</h3>
-
-<ul>
-  <li>Dockerized application setup</li>
-  <li>Environment-based configuration</li>
-  <li>Backend service deployment</li>
-  <li>Frontend build deployment</li>
-</ul>
-
-</td>
-<td width="50%">
-
-<h3>🌐 Server Configuration</h3>
-
-<ul>
-  <li>Nginx reverse proxy setup</li>
-  <li>API path routing</li>
-  <li>Domain and sub-path deployment</li>
-  <li>Basic cloud deployment with AWS</li>
-</ul>
-
-</td>
-  </tr>
-</table>
-
----
-
-## 📌 Main Interests
-
-<p>
-  <img src="https://img.shields.io/badge/Web%20Development-20232A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Frontend%20Engineering-20232A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Backend%20Engineering-20232A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/API%20Development-20232A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/UI%20Implementation-20232A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Kafka-20232A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker%20Deployment-20232A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Nginx%20Reverse%20Proxy-20232A?style=for-the-badge"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=brahmantiodiaz&hide_border=true&background=0B1320&stroke=1E293B&ring=F97316&fire=F97316&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F97316&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub contribution streak for brahmantiodiaz" width="80%"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EA580C00,50:EA580C,100:EA580C00&height=3" alt="" width="100%"/>
 
-<h2 id="contact">📫 Contact</h2>
+## Contact
 
-<table>
-  <tr>
-    <td width="80">
-      <a href="mailto:auliabrahmantio@gmail.com">
-        <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" width="30" height="30"/>
-      </a>
-    </td>
-    <td>
-      <a href="mailto:auliabrahmantio@gmail.com">auliabrahmantio@gmail.com</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="80">
-      <a href="https://www.linkedin.com/in/auliabrahmantiodiaz/">
-        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="30" height="30"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.linkedin.com/in/auliabrahmantiodiaz/">Aulia Brahmantio Diaz</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="80">
-      <a href="https://www.hackerrank.com/brahmantiodiaz">
-        <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hackerrank" width="30" height="30"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.hackerrank.com/brahmantiodiaz">brahmantiodiaz</a>
-    </td>
-  </tr>
-</table>
+Email me or send a message on LinkedIn. I'm happy to talk about backend systems, dashboards, or a project you're working on. My projects and experience are on <a href="https://brahmantiodiaz.com">brahmantiodiaz.com</a>.
+
+<p>
+  <a href="https://brahmantiodiaz.com"><img src="https://img.shields.io/badge/See_my_work-brahmantiodiaz.com-0B1320?style=flat-square&logo=googlechrome&logoColor=EA580C&labelColor=0B1320&color=1E293B" height="28" alt="See my work at brahmantiodiaz.com"/></a>
+  <a href="mailto:auliabrahmantio@gmail.com"><img src="https://img.shields.io/badge/Email_me-auliabrahmantio%40gmail.com-0B1320?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0B1320&color=1E293B" height="28" alt="Email me at auliabrahmantio@gmail.com"/></a>
+  <a href="https://www.linkedin.com/in/auliabrahmantiodiaz/"><img src="https://img.shields.io/badge/Message_me-on_LinkedIn-0B1320?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&labelColor=0B1320&color=1E293B" height="28" alt="Message me on LinkedIn"/></a>
+  <a href="https://www.hackerrank.com/brahmantiodiaz"><img src="https://img.shields.io/badge/HackerRank-brahmantiodiaz-0B1320?style=flat-square&logo=hackerrank&logoColor=00EA64&labelColor=0B1320&color=1E293B" height="28" alt="HackerRank profile brahmantiodiaz"/></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=EA580C&height=120&section=footer" alt="" width="100%"/>
+</p>
